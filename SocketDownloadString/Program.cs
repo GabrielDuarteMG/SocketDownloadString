@@ -16,6 +16,8 @@ namespace SocketDownloadString
         }
         private static Socket FinalConection(string href, int x)
         {
+            try
+            {
             Socket result = null;
             IPHostEntry hostEntry = Dns.GetHostEntry(href);
             IPAddress[] addressList = hostEntry.AddressList;
@@ -35,6 +37,11 @@ namespace SocketDownloadString
                 }
             }
             return result;
+            }
+            catch
+            {
+                return null;
+            }
         }
         private static string IntercessionConection(string href, int x, string string_22, int y)
         {
