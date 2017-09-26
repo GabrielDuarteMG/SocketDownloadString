@@ -1,0 +1,5 @@
+c:\users\gabriel duarte\documents\visual studio 2017\Projects\SocketDownloadString\SocketDownloadString\bin\Debug\SocketDownloadString.exe.config
+c:\users\gabriel duarte\documents\visual studio 2017\Projects\SocketDownloadString\SocketDownloadString\bin\Debug\SocketDownloadString.exe
+c:\users\gabriel duarte\documents\visual studio 2017\Projects\SocketDownloadString\SocketDownloadString\bin\Debug\SocketDownloadString.pdb
+c:\users\gabriel duarte\documents\visual studio 2017\Projects\SocketDownloadString\SocketDownloadString\obj\Debug\SocketDownloadString.exe
+c:\users\gabriel duarte\documents\visual studio 2017\Projects\SocketDownloadString\SocketDownloadString\obj\Debug\SocketDownloadString.pdb
