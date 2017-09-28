@@ -1,2 +1,2 @@
 # SocketDownloadString
-Download de strings usando System.Net.Socket
+String Download Using the System.Net.Socket, To projects don't using WebClient
