@@ -10,7 +10,7 @@ namespace SocketDownloadString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite a URL(http://): "); string x = Console.ReadLine();
+            Console.WriteLine("Write the URL(http://): "); string x = Console.ReadLine();
             Console.WriteLine(ConnectionsParameters(x, 80, 2000));
             Console.ReadKey();
         }
